@@ -23,3 +23,4 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 Architecture Diagram
+![WhatsApp Image 2023-07-22 at 12 33 16 AM](https://github.com/Netish05/Data-Engineering-YouTube-Analysis-Project-/assets/112419698/d08330bf-e04c-408a-a39e-dd5cd8178aaa)
